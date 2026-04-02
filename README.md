@@ -92,6 +92,24 @@ The system demonstrates how **ensemble learning techniques significantly outperf
 
 
 
+![WhatsApp Image 2026-03-30 at 22 11 41](https://github.com/user-attachments/assets/c6a03c88-e248-41fb-83bf-e3339dbbc431)
+![WhatsApp Image 2026-03-30 at 22 11 06](https://github.com/user-attachments/assets/475443ed-8b3c-43a0-9171-21dc3959ef89)
+![WhatsApp Image 2026-03-30 at 22 09 38](https://github.com/user-attachments/assets/170e2ac3-5899-488a-9384-ce4f04f712e5)
+![WhatsApp Image 2026-04-02 at 06 58 23](https://github.com/user-attachments/assets/e0e2eb16-c18d-461d-88dc-aae45d62d499)
+![WhatsApp Image 2026-04-02 at 06 58 23 (1)](https://github.com/user-attachments/assets/8fd68376-6450-48cd-bba0-0fd5f001a18a)
+![WhatsApp Image 2026-04-02 at 06 58 22](https://github.com/user-attachments/assets/b6e35c93-8798-4602-b2c7-1a9dcb73baf8)
+![WhatsApp Image 2026-04-02 at 00 34 20](https://github.com/user-attachments/assets/f78136f4-74ac-4f7a-96a0-6091cb33a1b6)
+![WhatsApp Image 2026-04-01 at 23 17 10](https://github.com/user-attachments/assets/fc76c6da-e8ec-4c90-bce2-37500557bcaa)
+![WhatsApp Image 2026-04-01 at 23 17 09](https://github.com/user-attachments/assets/94344360-41d2-4079-99ec-fffcf2e9e7c0)
+![WhatsApp Image 2026-04-01 at 23 17 08](https://github.com/user-attachments/assets/897b0409-57c1-48b5-86bc-9f34fda54a65)
+![WhatsApp Image 2026-03-30 at 22 11 41](https://github.com/user-attachments/assets/cfca45c8-de3d-4c9a-96f8-3db26938a2cf)
+<img width="1470" height="956" alt="Screenshot 2026-03-29 at 2 35 59 PM" src="https://github.com/user-attachments/assets/d7fe6a2f-00ae-4e04-ac20-06d4431a81e9" />
+<img width="1470" height="956" alt="Screenshot 2026-03-29 at 3 01 25 PM" src="https://github.com/user-attachments/assets/0c945bc6-1055-4e16-8df0-a1051d3b4b0b" />
+<img width="1470" height="956" alt="Screenshot 2026-03-29 at 3 13 27 PM" src="https://github.com/user-attachments/assets/8dfad3d3-bd86-4337-ae2c-91073c9a2cf7" />
+<img width="1470" height="956" alt="Screenshot 2026-03-30 at 1 14 59 PM" src="https://github.com/user-attachments/assets/a188aaf9-c163-4465-b07b-39674e12f4d6" />
+
+
+
 ---
 
 ## 🛠️ Tech Stack
